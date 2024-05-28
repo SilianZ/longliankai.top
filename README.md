@@ -5,7 +5,7 @@
 # 安装
 
 ```sh
-$ npm install hexo
+$ npm install
 ```
 
 # 运行
